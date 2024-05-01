@@ -1,0 +1,3 @@
+[submodule "assignment2/city"]
+	path = assignment2/city
+	url = https://github.com/hflabs/city
